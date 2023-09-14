@@ -22,6 +22,15 @@
 | :---: | :---: | :---: | :---: | :---: |
 |GitHub| [@kangdaia](https://github.com/kangdaia) | [@ih-tjpark](https://github.com/ih-tjpark) | [@Jeon-peng](https://github.com/Jeon-peng) | [@usiohc](https://github.com/usiohc) |
 
+## 팀원 별 기여도
+
+### 2차 프로젝트
+<img width="568" alt="image" src="https://github.com/Jeon-peng/project2-team1/assets/70497132/1c1fc5bc-7cba-467f-a88b-0f2cfc321f32">
+
+### 3차 프로젝트
+<img width="588" alt="image" src="https://github.com/Jeon-peng/project2-team1/assets/70497132/59132134-c85c-4cf2-bd5d-91840114f935">
+
+
 ## Tech
 
 | Field | Stack |
